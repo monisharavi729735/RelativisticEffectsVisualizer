@@ -1,4 +1,4 @@
-# Relativistic Effects Visualizer 🚀
+<h1 align="center" id="title">Relativistic Effects Visualizer 🚀</h1>
 
 **Relativistic Effects Visualizer** is a web application that offers an interactive and visual representation of relativistic effects, such as **Length Contraction** and **Time Dilation**, as described in **Special Relativity**. Built using **React.js**, **Tailwind CSS** and **Chart.js**, this project helps users better understand the behavior of space and time at relativistic speeds through dynamic visualizations.
 
