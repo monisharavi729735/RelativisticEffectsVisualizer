@@ -82,15 +82,19 @@
 ### **Home Page**
 - Interactive controls for exploring relativistic effects.
 - Real-time visualizations of **Length Contraction** and **Time Dilation**.
+![project-screenshot](https://i.imgur.com/TULZkdl.png)
 
 ### **Graph**
 - Clear depiction of how relativistic velocity affects contraction and dilation.
+![project-screenshot](https://i.imgur.com/QebfzhE.png)
 
 ### **Concept Page**
 - Simple, beginner-friendly explanations of the principles of **Special Relativity**.
+![project-screenshot](https://i.imgur.com/0K9Tjje.png)
 
 ### **Feedback Page**
 - Provides a link to a feedback form for user suggestions.
+![project-screenshot](https://i.imgur.com/hzbtmv0.png)
 
 ---
 
