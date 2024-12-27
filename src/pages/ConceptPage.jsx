@@ -109,21 +109,33 @@ const ConceptPage = () => {
             </h3>
             <p class="text-white text-lg">
                 &emsp; Length is the space-time separation between two events that occur at the same time.
-                As we have visited the simulatenous events section before hand we can say that "same time"
-                 doesn't really mean the same for Mavis and Stanley. So if two events are simultaneous for Stanley and measure
-                 a distance x [L in fig4] between the two events, then considering space time we can say that the distance measured by
-                 Mavis would be greater than x [Lp in fig4] since the events are not simulatenous according to her as the non simulataneity 
-                 causes a lag in measurement. Since the length measured by Stanley would be lesser than that
-                  measured by Mavis, we call phenomenon as length "contraction" (since we relate with the speed Stanley
-                 lives in more).
-                 <br />&emsp; To put it concisely, objects moving at extremely high speeds appear shorter along the direction of motion when
-                 observed from a stationary point.The contraction becomes significant as the object's speed
-                  approaches the speed of light. 
-                  Strongly recommend this video by &nbsp;
-                  <a href="https://youtu.be/TxW6_E3uLuo?si=C9Qyfh_4CoIwrMIO" class="text-cyan-400 hover:underline">
-                     The Science Asylum
-                  </a>.
+                 However, in special relativity, the concept of "same time" is not absolute—what is simultaneous
+                  for one observer may not be for another. For instance, Stanley measures the distance between two
+                   events happening at the same time as x (shown as L in the diagram). However, Mavis, who is moving
+                    relative to Stanley, does not see these two events as simultaneous. Because of the relativity
+                     of simultaneity, she will perceive one event occurring before the other.
+                <br />
+                &emsp; Due to this difference in perception, Mavis will measure the distance between the events
+                 as Lp, which is greater than x. This happens because the events are not simultaneous 
+                 for her, and this asymmetry in how time and space are experienced causes her to see a larger 
+                 distance. It's not just about speed—it's about how time and space are intertwined in relativity.
+                <br />
+                &emsp; To explain further, when objects move at extremely high speeds, time dilates. This
+                 means that time passes slower for someone moving at high speeds, like Mavis, compared to someone 
+                 at rest, like Stanley. For Stanley, the events happen at the same time, and he measures the distance as x. 
+                 But for Mavis, time passes slower for her, so her perception of the events' timing is stretched, which 
+                 leads to her measuring a longer distance.
+                <br />
+                &emsp; To summarize, objects moving at high speeds appear shorter along the direction of motion 
+                when observed from a stationary point, a phenomenon known as length contraction. This effect becomes 
+                more significant as the object's speed approaches the speed of light.
+                <br />
+                &emsp; I strongly recommend watching this video by &nbsp;
+                <a href="https://youtu.be/TxW6_E3uLuo?si=C9Qyfh_4CoIwrMIO" class="text-cyan-400 hover:underline">
+                    The Science Asylum
+                </a>.
             </p>
+
             <img
                 className="mt-8 mx-auto h-80 w-90"
                 src={c5}
