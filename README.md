@@ -1,5 +1,9 @@
 <h1 align="center" id="title">Relativistic Effects Visualizer 🚀</h1>
 
+Here's the link for [CosmicLens] (https://relativistic-effects-visualizer.vercel.app/)
+
+[![Check out the demo video here](https://i.imgur.com/IqF5osx.png)](https://youtu.be/zX_i10DaSYw)
+
 **Relativistic Effects Visualizer** is a web application that offers an interactive and visual representation of relativistic effects, such as **Length Contraction** and **Time Dilation**, as described in **Special Relativity**. Built using **React.js**, **Tailwind CSS** and **Chart.js**, this project helps users better understand the behavior of space and time at relativistic speeds through dynamic visualizations.
 
 ---
