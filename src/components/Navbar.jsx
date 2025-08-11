@@ -23,9 +23,9 @@ const Navbar = () => {
                   Home
                 </NavLink>
                 <NavLink 
-                  to="/concept" 
+                  to="/chatbot" 
                   className={({ isActive }) => isActive ? `${linkClass} ${activeLinkClass}` : linkClass}>
-                  Concept
+                  Chatbot
                 </NavLink>
                 <NavLink 
                   to="/feedback" 

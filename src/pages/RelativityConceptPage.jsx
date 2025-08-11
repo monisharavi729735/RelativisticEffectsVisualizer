@@ -3,6 +3,7 @@ import c2 from '../assets/images/c2.png'
 import c3 from '../assets/images/c3.jpg'
 import c4 from '../assets/images/c4.png'
 import c5 from '../assets/images/c5.png'
+import {Link} from 'react-router-dom'
 
 const ConceptPage = () => {
   return (
@@ -184,6 +185,18 @@ const ConceptPage = () => {
                     </a> to learn this with lorentz transformations visually
                 </li>
             </ul>
+
+            <div className="my-10 text-center">
+            <Link to="/relativity">
+                <button
+                type="button"
+                className="text-lg bg-indigo-900 hover:bg-indigo-700 text-white px-6 py-3 rounded-lg border-blue-700 
+                            shadow-[0_0_2px_#fff,inset_0_0_2px_#fff,0_0_5px_#08f,0_0_15px_#08f,0_0_30px_#08f] transition-all duration-200"
+                >
+                Ready to Take Off! 🚀
+                </button>
+            </Link>
+            </div>
         </div>
     </div>
   )
