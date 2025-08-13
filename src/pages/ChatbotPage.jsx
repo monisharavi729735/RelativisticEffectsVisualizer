@@ -16,7 +16,7 @@ const ChatbotPage = () => {
         },
         body: JSON.stringify({
           question: message,
-          history: []  // extend this to send chat history for context if needed
+          history: []
         }),
       });
       if (!response.ok) throw new Error('API request failed');
