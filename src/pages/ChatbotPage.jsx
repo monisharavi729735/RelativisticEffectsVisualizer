@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
 
 const ChatbotPage = () => {
   const [messages, setMessages] = useState([
@@ -9,7 +10,7 @@ const ChatbotPage = () => {
 
   const sendMessageToAPI = async (message) => {
     try {
-      const response = await fetch('http://localhost:8000/query', {
+      const response = await fetch('https://cosmiclens-rag-chatbot.onrender.com/query', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -63,7 +64,7 @@ const ChatbotPage = () => {
                 : 'bg-white/20 text-white'
             }`}
           >
-            {msg.text}
+            <ReactMarkdown>{msg.text}</ReactMarkdown>
           </div>
         ))}
         {loading && (
