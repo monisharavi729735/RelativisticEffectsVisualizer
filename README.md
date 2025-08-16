@@ -1,6 +1,7 @@
 <h1 align="center" id="title">Relativistic Effects Visualizer 🚀</h1>
 
 Here's the link for [CosmicLens] (https://relativistic-effects-visualizer.vercel.app/)
+Backend repo : (https://github.com/monisharavi729735/cosmiclens_rag_chatbot.git)
 
 [![Check out the demo video here](https://i.imgur.com/IqF5osx.png)](https://youtu.be/zX_i10DaSYw)
 
